@@ -1,6 +1,5 @@
 # 💫 About Me:
 I convert Idea into Product <br>reach me @theashhar.work@gmail.com
-(*  <img align="right" alt="coding" width="350"style="border-radius: 50%; width: 100px; height: 100px;" src= "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">   *)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ashharaliahmed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_ashhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashhar-ali-ahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/the_ashhar) 
